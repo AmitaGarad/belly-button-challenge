@@ -26,6 +26,7 @@ In this assignment, you will build an interactive dashboard to explore the Belly
 
 # scenario 4: Update all the plots when a new sample is selected.
 ![image](https://github.com/AmitaGarad/belly-button-challenge/assets/23108973/49ccadf2-826c-4499-aad0-8f2820d88c2f)
+![image](https://github.com/AmitaGarad/belly-button-challenge/assets/23108973/0443c46d-3601-46c8-ab9e-e2fc30e7fa3c)
 
 # scenario 5: Advanced Challenge Assignment
 ![image](https://github.com/AmitaGarad/belly-button-challenge/assets/23108973/dab9723a-4532-47d5-8b2a-94ad0b2baccc)
